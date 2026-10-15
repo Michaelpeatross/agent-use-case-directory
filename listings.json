@@ -1,0 +1,182 @@
+[
+ {
+  "name": "ChatGPT",
+  "cat": "Assistants",
+  "desc": "OpenAI's assistant with agent mode, browsing and tools",
+  "url": "https://chatgpt.com"
+ },
+ {
+  "name": "Claude",
+  "cat": "Assistants",
+  "desc": "Anthropic's assistant with computer use and projects",
+  "url": "https://claude.ai"
+ },
+ {
+  "name": "Grok",
+  "cat": "Assistants",
+  "desc": "xAI's assistant with real-time X data",
+  "url": "https://grok.com"
+ },
+ {
+  "name": "Perplexity",
+  "cat": "Research",
+  "desc": "Answer engine with cited web research",
+  "url": "https://www.perplexity.ai"
+ },
+ {
+  "name": "Manus",
+  "cat": "General Agents",
+  "desc": "Autonomous general-purpose task agent",
+  "url": "https://manus.im"
+ },
+ {
+  "name": "Cursor",
+  "cat": "Coding Agents",
+  "desc": "AI code editor with background agents",
+  "url": "https://cursor.com"
+ },
+ {
+  "name": "GitHub Copilot",
+  "cat": "Coding Agents",
+  "desc": "AI pair programmer and coding agent",
+  "url": "https://github.com/features/copilot"
+ },
+ {
+  "name": "Devin",
+  "cat": "Coding Agents",
+  "desc": "Autonomous AI software engineer by Cognition",
+  "url": "https://devin.ai"
+ },
+ {
+  "name": "Replit Agent",
+  "cat": "Coding Agents",
+  "desc": "Build and deploy apps from a prompt",
+  "url": "https://replit.com"
+ },
+ {
+  "name": "Lovable",
+  "cat": "App Builders",
+  "desc": "Prompt-to-full-stack web apps",
+  "url": "https://lovable.dev"
+ },
+ {
+  "name": "Bolt",
+  "cat": "App Builders",
+  "desc": "StackBlitz's in-browser AI app builder",
+  "url": "https://bolt.new"
+ },
+ {
+  "name": "v0",
+  "cat": "App Builders",
+  "desc": "Vercel's generative UI builder",
+  "url": "https://v0.dev"
+ },
+ {
+  "name": "Zapier",
+  "cat": "Automation",
+  "desc": "Workflow automation with AI agents",
+  "url": "https://zapier.com"
+ },
+ {
+  "name": "n8n",
+  "cat": "Automation",
+  "desc": "Open-source workflow automation with AI nodes",
+  "url": "https://n8n.io"
+ },
+ {
+  "name": "Make",
+  "cat": "Automation",
+  "desc": "Visual automation platform",
+  "url": "https://www.make.com"
+ },
+ {
+  "name": "Lindy",
+  "cat": "Automation",
+  "desc": "No-code AI employees for ops tasks",
+  "url": "https://www.lindy.ai"
+ },
+ {
+  "name": "Relevance AI",
+  "cat": "Agent Builders",
+  "desc": "Build an AI workforce of agents",
+  "url": "https://relevanceai.com"
+ },
+ {
+  "name": "CrewAI",
+  "cat": "Frameworks",
+  "desc": "Multi-agent orchestration framework",
+  "url": "https://www.crewai.com"
+ },
+ {
+  "name": "LangChain",
+  "cat": "Frameworks",
+  "desc": "Framework and LangGraph for agent apps",
+  "url": "https://www.langchain.com"
+ },
+ {
+  "name": "AutoGen",
+  "cat": "Frameworks",
+  "desc": "Microsoft's multi-agent framework",
+  "url": "https://github.com/microsoft/autogen"
+ },
+ {
+  "name": "Browserbase",
+  "cat": "Infrastructure",
+  "desc": "Headless browsers for AI agents",
+  "url": "https://www.browserbase.com"
+ },
+ {
+  "name": "ElevenLabs",
+  "cat": "Voice Agents",
+  "desc": "Voice AI and conversational agents",
+  "url": "https://elevenlabs.io"
+ },
+ {
+  "name": "Vapi",
+  "cat": "Voice Agents",
+  "desc": "Developer platform for voice agents",
+  "url": "https://vapi.ai"
+ },
+ {
+  "name": "Retell AI",
+  "cat": "Voice Agents",
+  "desc": "AI phone agents for calls",
+  "url": "https://www.retellai.com"
+ },
+ {
+  "name": "Intercom Fin",
+  "cat": "Customer Support",
+  "desc": "AI customer service agent",
+  "url": "https://www.intercom.com/fin"
+ },
+ {
+  "name": "Decagon",
+  "cat": "Customer Support",
+  "desc": "Enterprise AI support agents",
+  "url": "https://decagon.ai"
+ },
+ {
+  "name": "Clay",
+  "cat": "Sales",
+  "desc": "AI-powered prospect research and enrichment",
+  "url": "https://www.clay.com"
+ },
+ {
+  "name": "Harvey",
+  "cat": "Legal",
+  "desc": "AI for legal professionals",
+  "url": "https://www.harvey.ai"
+ },
+ {
+  "name": "Elicit",
+  "cat": "Research",
+  "desc": "AI research assistant for papers",
+  "url": "https://elicit.com"
+ },
+ {
+  "name": "Gamma",
+  "cat": "Content",
+  "desc": "AI presentations and docs",
+  "url": "https://gamma.app"
+ }
+]
